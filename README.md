@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ali Javed(Web and Mobile application developer)</h1>
+<h1 align="center"> I'm Ali Javed </h1>
 <h3 align="center">A passionate software engineer with 5 plus years of experience who is a highly motivated individual and is dedicated to creating innovative and effective software solutions. I have strong technical skillsets, constantly trying to stay up-to-date with the latest technologies, and have a deep understanding of programming languages and software development methodologies. With a focus on delivering high-quality products, I approach each project with an unwavering commitment to excellence. In addition to my technical expertise, I have also strong communication and collaboration skills, I am also able to work effectively with cross-functional teams to achieve project goals. Above all, my passion for technology and my drive to solve complex problems make me a valuable asset to any software development team.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alipg06" alt="alipg06" /></a> </p>
