@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Apa](https://sicher-arbeiten.hamburg/apa)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ali-javed-018522212/](https://www.linkedin.com/in/ali-javed-018522212/)
+- 👨‍💻 All of my projects are available at [https://github.com/Alipg06?tab=repositories](https://github.com/Alipg06?tab=repositories)
 
 - 💬 Ask me about **React, NextJS, Django, data engineering**
 
